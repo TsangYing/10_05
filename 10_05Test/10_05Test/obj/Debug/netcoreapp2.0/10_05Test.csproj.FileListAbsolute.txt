@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\10_05Test\10_05Test\bin\Debug\netcoreapp2.0\10_05Test.deps.json
+C:\Users\user\source\repos\10_05Test\10_05Test\bin\Debug\netcoreapp2.0\10_05Test.runtimeconfig.json
+C:\Users\user\source\repos\10_05Test\10_05Test\bin\Debug\netcoreapp2.0\10_05Test.runtimeconfig.dev.json
+C:\Users\user\source\repos\10_05Test\10_05Test\bin\Debug\netcoreapp2.0\10_05Test.dll
+C:\Users\user\source\repos\10_05Test\10_05Test\bin\Debug\netcoreapp2.0\10_05Test.pdb
+C:\Users\user\source\repos\10_05Test\10_05Test\obj\Debug\netcoreapp2.0\10_05Test.csprojAssemblyReference.cache
+C:\Users\user\source\repos\10_05Test\10_05Test\obj\Debug\netcoreapp2.0\10_05Test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\10_05Test\10_05Test\obj\Debug\netcoreapp2.0\10_05Test.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\10_05Test\10_05Test\obj\Debug\netcoreapp2.0\10_05Test.AssemblyInfo.cs
+C:\Users\user\source\repos\10_05Test\10_05Test\obj\Debug\netcoreapp2.0\10_05Test.dll
+C:\Users\user\source\repos\10_05Test\10_05Test\obj\Debug\netcoreapp2.0\10_05Test.pdb
